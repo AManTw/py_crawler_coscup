@@ -1,53 +1,610 @@
 ﻿track,time,title,speakers,tags
-尚有空位RB105主議程軌,08：45 ~ 09：00,COSCUP 2024: Welcome Day 1,by,中文入門
-尚有空位RB105主議程軌,09：00 ~ 09：45,Generalist real-time computer vision model,by,中文入門
-尚有空位RB105主議程軌,10：00 ~ 10：30,"A 101 in time series analytics with Apache Arrow, Pandas and Parquet",byzoe steinkamp,入門
-尚有空位TR614Ruby Taiwan,10：10 ~ 10：40,如何實作一個 GPT 客服 LINE Bot,by卡米哥,中文中階
-尚有空位TR211OpenStreet x Wikidata 開放內容議程軌,10：30 ~ 11：00,生成式 AI 於 Wikidata 中的寫作應用：從資料完整性到資料協作品質,byplanetoid,中文入門
-尚有空位TR210參與或建立開源專案的故事分享,10：35 ~ 11：05,OONI Partner Gathering 2024 與在地社群推廣 OONI 策略,byToomore Chiang (ocf.tw),中文入門
-尚有空位RB105主議程軌,10：40 ~ 11：10,ROS2 ♥ Rust,"by林祥瑞 (Lin, Hsiang-Jui)",入門
-尚有空位TR409-2PostgreSQL.TW,10：45 ~ 11：15,How to Ride Elephants Safely,byRichard Yen,入門
-尚有空位TR614Ruby Taiwan,10：50 ~ 11：20,小心！你的 Rails 有被打過嗎？,byCindy,中文中階
-尚有空位TR512LibreOffice Asia Conf 2024,11：00 ~ 11：30,Those things Writer don't tell you,by蔡凱如,中文入門
-尚有空位TR210參與或建立開源專案的故事分享,11：10 ~ 11：40,從第一個 PR，到千星專案,byCasper,中文中階
-尚有空位RB102Google 開發者派對,11：15 ~ 12：00,Build an Advanced RAG with Fine-tuned Gemma,byJimmy Liao,中文中階
-尚有空位RB105主議程軌,11：20 ~ 11：50,On corporate control of Free Software Projects… systemic community lessons from IBM & Red Hat,bySimon Hornbachner,English入門
-尚有空位TR214學生 × 教育大亂鬥,11：25 ~ 11：55,成功大學 GDSC 經營指南,byAlex Su,中文入門
-尚有空位TR409-2PostgreSQL.TW,11：30 ~ 12：00,Playing nice with your friends: database diversity with PostgreSQL FDWs,byRichard Yen,入門
-尚有空位TR512LibreOffice Asia Conf 2024,11：35 ~ 12：05,Our Drawing Experiences with LibreOffice Draw,byRaditya Abdi FirmansyahNabil Oktaroma Dhoni,English入門
-尚有空位TR413-1開源政策,11：40 ~ 12：05,當各國都發布資料策略，台灣該怎麼做？,by研究資料寄存所,中文入門
-尚有空位TR210參與或建立開源專案的故事分享,11：45 ~ 12：15,多客機上的 NAT 管理系統專案經驗分享,byFKT,中文中階
-尚有空位TR313開源新手村,12：00 ~ 12：30,後端工程師加入開源社群的心路歷程,byKaty Huang,中文入門
-尚有空位TR409-2PostgreSQL.TW,12：15 ~ 12：45,海克力斯：PostgreSQL 生態共榮圈,by鍾明達張友謙孫菖鴻,中文中階
-尚有空位TR210參與或建立開源專案的故事分享,12：20 ~ 12：50,分享貢獻開源專案的經驗：好玩又有意義,byWeiTheShinobi,中文入門
-尚有空位TR313開源新手村,12：40 ~ 13：25,開源只是一種美德？辦完近千人外籍與會者研討會後，談社群永續經營的課題,"byHuanyi (Eric)Huanyi Chuang, Yuli Yang, Xini Liu(ocf.tw)",中文入門
-尚有空位TR413-1開源政策,12：45 ~ 13：10,開源專案的商業困境,by黃宇強 Date Huang,中文入門
-尚有空位TR212Kubernetes Community Day Taipei,12：50 ~ 13：20,k0s: Yet Another Lightweight Kubernetes Distribution?,byChing Kuo,English入門
-尚有空位RB105主議程軌,13：00 ~ 13：30,Developers — Build your Career Now!,byJim Grisanzio,入門
-尚有空位TR210參與或建立開源專案的故事分享,13：10 ~ 13：40,Learning in Public via being a Open Knowledge Vault Maintainer,byAlex Tzeng,中文入門
-尚有空位TR214學生 × 教育大亂鬥,13：20 ~ 13：50,Cultivating Impactful Student Developer Ecosystems: Strategies and Insights,byHarshita Jain,English入門
-尚有空位TR513sciwork scisprint,13：25 ~ 13：55,modmesh: Visualization that balances performance and flexibility for scientific computing,byChun-Hsu Lai,中文入門
-尚有空位TR211OpenStreet x Wikidata 開放內容議程軌,13：30 ~ 14：00,iahway： 我在這裡，你們在哪裡?,byckhung,中文入門
-尚有空位TR313開源新手村,13：35 ~ 14：35,工作坊：用 Linux Odyssey 展開你的終端機冒險,byJustin Lin,中文入門
-尚有空位RB105主議程軌,13：40 ~ 14：10,不開源、不成活：探秘【2023 中國開源年度報告】,by刘天栋,入門
-尚有空位TR210參與或建立開源專案的故事分享,13：45 ~ 14：15,一起來開發一個 notion 吧，多人即時共編筆記分享,byRay 貓,中文中階
-尚有空位RB102Google 開發者派對,13：50 ~ 14：20,透過Gemma實踐FT-RAG,byJerry,中文入門
-尚有空位TR514Open Source People Network (OSPN) Japan Special track,13：55 ~ 14：25,Getting Started with MySQL on Kubernetes: Challenges and Solutions for Beginners,byShizuka Yasukochi,入門
-尚有空位TR211OpenStreet x Wikidata 開放內容議程軌,14：00 ~ 14：30,Empowering Youth Leaders for Sustainable Development Goals in Open Mapping: Introducing #YouthMappers,byFeye Andal,入門
-尚有空位TR212Kubernetes Community Day Taipei,14：10 ~ 14：40,Argo CD Extension 在 UI 上也能做手工藝,bywei,中文專業
-尚有空位TR510開放授權的克萊兜史夠普,14：15 ~ 14：45,Free and Open Source Licensing Basics for Developers,bySimon Hornbachner,English入門
-尚有空位RB105主議程軌,14：20 ~ 14：50,從社群到基金會，OCF 十歲了！,by開放文化基金會,中文入門
-尚有空位RB102Google 開發者派對,14：30 ~ 15：00,LLM 初體驗 - Running Google Gemma locally,byWeithenn,中文入門
-尚有空位TR513sciwork scisprint,14：35 ~ 15：05,uTensor: an extremely lightweight machine learning inference framework,bydboyliao,中文中階
-尚有空位TR413-1開源政策,14：40 ~ 15：10,如何善用開源社群能量，對齊科技建設的需求與規格，提高政府資訊採購品質？,by劉維人Frank Hu,中文中階
-尚有空位TR212Kubernetes Community Day Taipei,14：50 ~ 15：20,What We Can Do with Kubernetes Custom Controllers,byZespre Chang,中文專業
-尚有空位TR210參與或建立開源專案的故事分享,14：55 ~ 15：25,從自己變成熱門開源技術專家到讓別人也變成專家,by蔡嘉平,中文入門
-尚有空位TR211OpenStreet x Wikidata 開放內容議程軌,15：00 ~ 15：45,OpenStreetMap Community Panel,byDennis Raylin ChenTaro Matsuzawackhung,English入門
-尚有空位TR513sciwork scisprint,15：10 ~ 15：40,Commitizen-Tools: Create committing rules for projects 🚀 auto bump versions ⬆️ and auto changelog generation 📂,byWei Lee,中文中階
-尚有空位RB102Google 開發者派對,15：15 ~ 16：00,TDD with AI?,byMatthias Geisler,English中階
-尚有空位TR413-1開源政策,15：20 ~ 16：00,Digital Bill of Rights數位權利法案：由下而上一起打造數位自由的法制基礎建設,by司改會數位法小組,中文入門
-尚有空位TR510開放授權的克萊兜史夠普,15：25 ~ 15：55,iText & QT -- Copyright or Copywrong? Copyleft or Copytroll?,byLucien C.H. Lin 林誠夏,中文中階
-尚有空位TR210參與或建立開源專案的故事分享,15：30 ~ 16：00,從大學到出社會，這十年的參與和維護的開源專案,by黃宇強 Date Huang,中文入門
-尚有空位TR513sciwork scisprint,15：45 ~ 16：00,scisprint: Closing Remark,byLi-Hung Wang,中文入門
-尚有空位RB105主議程軌,16：10 ~ 16：55,The Next Revolution in Open Source Operating Systems and Systems Software,byGeorge Neville-Neil,English中階
-尚有空位RB105主議程軌,16：55 ~ 17：10,Closing Day 1,by,中文入門
+"尚有空位
+RB105
+
+主議程軌",08：45 ~ 09：00,COSCUP 2024: Welcome Day 1,by,"中文
+入門"
+"尚有空位
+RB105
+
+主議程軌",09：00 ~ 09：45,Generalist real-time computer vision model,by,"中文
+入門"
+"尚有空位
+RB105
+
+主議程軌",10：00 ~ 10：30,"A 101 in time series analytics with Apache Arrow, Pandas and Parquet","by
+
+zoe steinkamp",入門
+"尚有空位
+TR614
+
+Ruby Taiwan",10：10 ~ 10：40,如何實作一個 GPT 客服 LINE Bot,"by
+
+卡米哥","中文
+中階"
+"尚有空位
+TR211
+
+OpenStreet x Wikidata 開放內容議程軌",10：30 ~ 11：00,生成式 AI 於 Wikidata 中的寫作應用：從資料完整性到資料協作品質,"by
+
+planetoid","中文
+入門"
+"尚有空位
+TR210
+
+參與或建立開源專案的故事分享",10：35 ~ 11：05,OONI Partner Gathering 2024 與在地社群推廣 OONI 策略,"by
+
+Toomore Chiang (ocf.tw)","中文
+入門"
+"尚有空位
+RB105
+
+主議程軌",10：40 ~ 11：10,ROS2 ♥ Rust,"by
+
+林祥瑞 (Lin, Hsiang-Jui)",入門
+"尚有空位
+TR409-2
+
+PostgreSQL.TW",10：45 ~ 11：15,How to Ride Elephants Safely,"by
+
+Richard Yen",入門
+"尚有空位
+TR614
+
+Ruby Taiwan",10：50 ~ 11：20,小心！你的 Rails 有被打過嗎？,"by
+
+Cindy","中文
+中階"
+"尚有空位
+TR512
+
+LibreOffice Asia Conf 2024",11：00 ~ 11：30,Those things Writer don't tell you,"by
+
+蔡凱如","中文
+入門"
+"尚有空位
+TR210
+
+參與或建立開源專案的故事分享",11：10 ~ 11：40,從第一個 PR，到千星專案,"by
+
+Casper","中文
+中階"
+"尚有空位
+RB102
+
+Google 開發者派對",11：15 ~ 12：00,Build an Advanced RAG with Fine-tuned Gemma,"by
+
+Jimmy Liao","中文
+中階"
+"尚有空位
+RB105
+
+主議程軌",11：20 ~ 11：50,On corporate control of Free Software Projects… systemic community lessons from IBM &Red Hat,"by
+
+Simon Hornbachner","English
+入門"
+"尚有空位
+TR214
+
+學生 × 教育大亂鬥",11：25 ~ 11：55,成功大學 GDSC 經營指南,"by
+
+Alex Su","中文
+入門"
+"尚有空位
+TR409-2
+
+PostgreSQL.TW",11：30 ~ 12：00,Playing nice with your friends: database diversity with PostgreSQL FDWs,"by
+
+Richard Yen",入門
+"尚有空位
+TR512
+
+LibreOffice Asia Conf 2024",11：35 ~ 12：05,Our Drawing Experiences with LibreOffice Draw,"by
+
+Raditya Abdi Firmansyah
+Nabil Oktaroma Dhoni","English
+入門"
+"尚有空位
+TR413-1
+
+開源政策",11：40 ~ 12：05,當各國都發布資料策略，台灣該怎麼做？,"by
+
+研究資料寄存所","中文
+入門"
+"尚有空位
+TR210
+
+參與或建立開源專案的故事分享",11：45 ~ 12：15,多客機上的 NAT 管理系統專案經驗分享,"by
+
+FKT","中文
+中階"
+"尚有空位
+TR313
+
+開源新手村",12：00 ~ 12：30,後端工程師加入開源社群的心路歷程,"by
+
+Katy Huang","中文
+入門"
+"尚有空位
+TR409-2
+
+PostgreSQL.TW",12：15 ~ 12：45,海克力斯：PostgreSQL 生態共榮圈,"by
+
+鍾明達
+張友謙
+孫菖鴻","中文
+中階"
+"尚有空位
+TR210
+
+參與或建立開源專案的故事分享",12：20 ~ 12：50,分享貢獻開源專案的經驗：好玩又有意義,"by
+
+WeiTheShinobi","中文
+入門"
+"尚有空位
+TR313
+
+開源新手村",12：40 ~ 13：25,開源只是一種美德？辦完近千人外籍與會者研討會後，談社群永續經營的課題,"by
+
+Huanyi (Eric)
+Huanyi Chuang, Yuli Yang, Xini Liu(ocf.tw)","中文
+入門"
+"尚有空位
+TR413-1
+
+開源政策",12：45 ~ 13：10,開源專案的商業困境,"by
+
+黃宇強 Date Huang","中文
+入門"
+"尚有空位
+TR212
+
+Kubernetes Community Day Taipei",12：50 ~ 13：20,k0s: Yet Another Lightweight Kubernetes Distribution?,"by
+
+Ching Kuo","English
+入門"
+"尚有空位
+RB105
+
+主議程軌",13：00 ~ 13：30,Developers — Build your Career Now!,"by
+
+Jim Grisanzio",入門
+"尚有空位
+TR210
+
+參與或建立開源專案的故事分享",13：10 ~ 13：40,Learning in Public via being a Open Knowledge Vault Maintainer,"by
+
+Alex Tzeng","中文
+入門"
+"尚有空位
+TR214
+
+學生 × 教育大亂鬥",13：20 ~ 13：50,Cultivating Impactful Student Developer Ecosystems: Strategies and Insights,"by
+
+Harshita Jain","English
+入門"
+"尚有空位
+TR513
+
+sciwork scisprint",13：25 ~ 13：55,modmesh: Visualization that balances performance and flexibility for scientific computing,"by
+
+Chun-Hsu Lai","中文
+入門"
+"尚有空位
+TR211
+
+OpenStreet x Wikidata 開放內容議程軌",13：30 ~ 14：00,iahway： 我在這裡，你們在哪裡?,"by
+
+ckhung","中文
+入門"
+"尚有空位
+TR313
+
+開源新手村",13：35 ~ 14：35,工作坊：用 Linux Odyssey 展開你的終端機冒險,"by
+
+Justin Lin","中文
+入門"
+"尚有空位
+RB105
+
+主議程軌",13：40 ~ 14：10,不開源、不成活：探秘【2023 中國開源年度報告】,"by
+
+刘天栋",入門
+"尚有空位
+TR210
+
+參與或建立開源專案的故事分享",13：45 ~ 14：15,一起來開發一個 notion 吧，多人即時共編筆記分享,"by
+
+Ray 貓","中文
+中階"
+"尚有空位
+RB102
+
+Google 開發者派對",13：50 ~ 14：20,透過Gemma實踐FT-RAG,"by
+
+Jerry","中文
+入門"
+"尚有空位
+TR514
+
+Open Source People Network (OSPN) Japan Special track",13：55 ~ 14：25,Getting Started with MySQL on Kubernetes: Challenges and Solutions for Beginners,"by
+
+Shizuka Yasukochi",入門
+"尚有空位
+TR211
+
+OpenStreet x Wikidata 開放內容議程軌",14：00 ~ 14：30,Empowering Youth Leaders for Sustainable Development Goals in Open Mapping: Introducing #YouthMappers,"by
+
+Feye Andal",入門
+"尚有空位
+TR212
+
+Kubernetes Community Day Taipei",14：10 ~ 14：40,Argo CD Extension 在 UI 上也能做手工藝,"by
+
+wei","中文
+專業"
+"尚有空位
+TR510
+
+開放授權的克萊兜史夠普",14：15 ~ 14：45,Free and Open Source Licensing Basics for Developers,"by
+
+Simon Hornbachner","English
+入門"
+"尚有空位
+RB105
+
+主議程軌",14：20 ~ 14：50,從社群到基金會，OCF 十歲了！,"by
+
+開放文化基金會","中文
+入門"
+"尚有空位
+RB102
+
+Google 開發者派對",14：30 ~ 15：00,LLM 初體驗 - Running Google Gemma locally,"by
+
+Weithenn","中文
+入門"
+"尚有空位
+TR513
+
+sciwork scisprint",14：35 ~ 15：05,uTensor: an extremely lightweight machine learning inference framework,"by
+
+dboyliao","中文
+中階"
+"尚有空位
+TR413-1
+
+開源政策",14：40 ~ 15：10,如何善用開源社群能量，對齊科技建設的需求與規格，提高政府資訊採購品質？,"by
+
+劉維人
+Frank Hu","中文
+中階"
+"尚有空位
+TR212
+
+Kubernetes Community Day Taipei",14：50 ~ 15：20,What We Can Do with Kubernetes Custom Controllers,"by
+
+Zespre Chang","中文
+專業"
+"尚有空位
+TR210
+
+參與或建立開源專案的故事分享",14：55 ~ 15：25,從自己變成熱門開源技術專家到讓別人也變成專家,"by
+
+蔡嘉平","中文
+入門"
+"尚有空位
+TR211
+
+OpenStreet x Wikidata 開放內容議程軌",15：00 ~ 15：45,OpenStreetMap Community Panel,"by
+
+Dennis Raylin Chen
+Taro Matsuzawa
+ckhung","English
+入門"
+"尚有空位
+TR513
+
+sciwork scisprint",15：10 ~ 15：40,Commitizen-Tools: Create committing rules for projects 🚀 auto bump versions ⬆️ and auto changelog generation 📂,"by
+
+Wei Lee","中文
+中階"
+"尚有空位
+RB102
+
+Google 開發者派對",15：15 ~ 16：00,TDD with AI?,"by
+
+Matthias Geisler","English
+中階"
+"尚有空位
+TR413-1
+
+開源政策",15：20 ~ 16：00,Digital Bill of Rights數位權利法案：由下而上一起打造數位自由的法制基礎建設,"by
+
+司改會數位法小組","中文
+入門"
+"尚有空位
+TR510
+
+開放授權的克萊兜史夠普",15：25 ~ 15：55,iText &QT -- Copyright or Copywrong? Copyleft or Copytroll?,"by
+
+Lucien C.H. Lin 林誠夏","中文
+中階"
+"尚有空位
+TR210
+
+參與或建立開源專案的故事分享",15：30 ~ 16：00,從大學到出社會，這十年的參與和維護的開源專案,"by
+
+黃宇強 Date Huang","中文
+入門"
+"尚有空位
+TR513
+
+sciwork scisprint",15：45 ~ 16：00,scisprint: Closing Remark,"by
+
+Li-Hung Wang","中文
+入門"
+"尚有空位
+RB105
+
+主議程軌",16：10 ~ 16：55,The Next Revolution in Open Source Operating Systems and Systems Software,"by
+
+George Neville-Neil","English
+中階"
+"尚有空位
+RB105
+
+主議程軌",16：55 ~ 17：10,Closing Day 1,by,"中文
+入門"
+"尚有空位
+RB105
+
+主議程軌",08：45 ~ 09：00,COSCUP 2024: Welcome Day 2,by,"中文
+入門"
+"尚有空位
+RB105
+
+主議程軌",09：00 ~ 09：45,Where are the limits of open communities?,"by
+
+Anezka Muller","English
+入門"
+"尚有空位
+RB101
+
+Open Source Design TW Region",10：00 ~ 16：00,Designers in Tech- Open Source Design Workshop,"by
+
+Eriol Fox","English
+入門"
+"尚有空位
+TR511
+
+2024農業開源人年會",10：20 ~ 11：20,用開放資料做碳盤查：農業碳管理聯盟,"by
+
+農業開放資料社群 Community of Open Data for Agriculture","中文
+入門"
+"尚有空位
+TR214
+
+學生 × 教育大亂鬥",10：30 ~ 11：00,Rclone 介紹與應用 : 讓雲端不再遙遠,"by
+
+frakw","中文
+入門"
+"尚有空位
+TR513
+
+PyCon TW 社群聚",10：35 ~ 11：05,數位孿生框架在地方創生的應用：社會影響力評估,"by
+
+黃俊毓
+Yun-Cheng Tsai (Pecu)","中文
+入門"
+"尚有空位
+RB102
+
+Google 開發者派對",10：40 ~ 11：10,Let’s Talk About LOVE to/with Gemini,"by
+
+楊舒安","中文
+入門"
+"尚有空位
+TR409-2
+
+PostgreSQL.TW",10：45 ~ 11：15,Improve your postgres performance with PoWA,"by
+
+Julien Rouhaud","English
+中階"
+"尚有空位
+TR410
+
+Open Source Firmware",11：10 ~ 11：40,RISC-V for Beginners: A Journey Through Concepts and Creations,"by
+
+Jay Chang 張傑凱","中文
+入門"
+"尚有空位
+TR214
+
+學生 × 教育大亂鬥",11：15 ~ 11：45,破除教育鴻溝：透過開源，偏鄉職生也能跳脫舒適框架,"by
+
+温冠華","中文
+入門"
+"尚有空位
+RB102
+
+Google 開發者派對",11：20 ~ 12：00,如何為公共場域的AI客服聊天機器人建構知識宇宙？,"by
+
+陳佳新（奇步老爹）","中文
+中階"
+"尚有空位
+TR409-2
+
+PostgreSQL.TW",11：30 ~ 12：00,Logical Decoding 與 Replication 概念與應用,"by
+
+Kenny Chen - 肯尼工程師","中文
+中階"
+"尚有空位
+TR313
+
+開源新手村",11：40 ~ 12：10,桌遊也可以這樣玩！？一起探索開源星手村新玩法！,"by
+
+Amos","中文
+入門"
+"尚有空位
+TR513
+
+PyCon TW 社群聚",11：45 ~ 12：15,30分鐘手把手帶你產出一集 Podcast 節目,"by
+
+Perfectly JoJo","中文
+入門"
+"尚有空位
+TR211
+
+帶您讀源碼",12：00 ~ 12：30,如何抽取出 XZ 後門的惡意程式酬載,"by
+
+林博仁(Buo-ren, Lin)","中文
+入門"
+"尚有空位
+TR409-2
+
+PostgreSQL.TW",12：15 ~ 12：45,YDB: extending a Distributed SQL DBMS with PostgreSQL compatibility,"by
+
+Ivan Blinkov","English
+中階"
+"尚有空位
+TR313
+
+開源新手村",12：20 ~ 12：40,職場模擬與應用：開源星手村桌遊的實踐案例,"by
+
+Ben Liu","中文
+入門"
+"尚有空位
+TR211
+
+帶您讀源碼",12：50 ~ 13：20,How LangServe Works and Its Source Code,"by
+
+Ko Ko","中文
+入門"
+"尚有空位
+RB102
+
+Google 開發者派對",13：00 ~ 13：30,遠端開發實踐：以 JetBrains IDE 搭配 GCP Cloud Workstation 打造流暢的雲端開發環境,"by
+
+Shengyou Fan","中文
+入門"
+"尚有空位
+TR413-1
+
+JVM 集會所",13：15 ~ 13：45,關於我用 Kotlin 在 Server Side 開發的那件事,"by
+
+Brandy Chang","中文
+入門"
+"尚有空位
+TR211
+
+帶您讀源碼",13：30 ~ 14：00,Entering SIMD Programming with Real-World Examples: A Code-Driven Journey,"by
+
+葉家郡","中文
+中階"
+"尚有空位
+RB102
+
+Google 開發者派對",13：40 ~ 14：10,Flutter - 跟 setState 說掰掰，你一定要學會的狀態管理工具。,"by
+
+Andy Lu","中文
+中階"
+"尚有空位
+TR409-2
+
+PostgreSQL.TW",13：45 ~ 14：15,探索PG Vector 與 RAG 技術的語言模型優化,"by
+
+里長伯",入門
+"尚有空位
+TR514
+
+Open Source People Network (OSPN) Japan Special track",13：55 ~ 14：25,Would you all love to build and operate your own 'server'? - the tips for doing it via my experience running 'MyDNS' service.,"by
+
+Takeshi Kaburagi",入門
+"尚有空位
+TR413-1
+
+JVM 集會所",14：00 ~ 14：30,And Gradle says: sharing is caring - Or why Gradle Plugins are all you need for your Configuration,"by
+
+Matthias Geisler","中文
+專業"
+"尚有空位
+TR511
+
+2024農業開源人年會",14：05 ~ 14：35,數位應用串連地方創新發展,"by
+
+Janice","中文
+入門"
+"尚有空位
+TR211
+
+帶您讀源碼",14：10 ~ 14：40,How the Gemini protocol works - minimalist and modern document transport protocol,"by
+
+Martin Chang","English
+中階"
+"尚有空位
+TR412-1
+
+綜合議程 - 各種開源議題",14：20 ~ 14：50,雲端 GPU 共享系統,"by
+
+王佑中",入門
+"尚有空位
+RB102
+
+Google 開發者派對",14：30 ~ 15：00,小麥注音輸入法的台灣點字輸出與轉換,"by
+
+zonble","中文
+入門"
+"尚有空位
+TR511
+
+2024農業開源人年會",14：40 ~ 15：10,[日本] [地方創生] Naorai - Succeed a diverse &rich Japanese-sake culture to the future Vision,"by
+
+Janice","中文
+入門"
+"尚有空位
+TR413-1
+
+JVM 集會所",14：45 ~ 15：15,應用資料分析於軟體開發,"by
+
+Laurence Chen","中文
+中階"
+"尚有空位
+TR211
+
+帶您讀源碼",14：50 ~ 15：20,How to Write Video Plugins: Expand the Power of Open Source Programmatic Video Manipulating Tools,"by
+
+Hsueh-Tsung Kuo","中文
+中階"
+"尚有空位
+TR513
+
+O-RAN in B5G/6G",15：00 ~ 15：30,現代化 DPDK 應用開發：整合 Rust 以提升開發效率,"by
+
+doraeric","中文
+中階"
+"尚有空位
+TR214
+
+學生 × 教育大亂鬥",15：15 ~ 15：45,AI 時代的教育元宇宙,"by
+
+蔡芸琤老師","中文
+入門"
+"尚有空位
+TR514
+
+Open Source People Network (OSPN) Japan Special track",15：25 ~ 15：55,Let's tackle open-source supply chain issues with open source,"by
+
+Naruhiko Ogasawara",入門
+"尚有空位
+RB102
+
+Google 開發者派對",15：30 ~ 16：00,Beyond Text- Building Multimodal AI with LangChain and Gemini Pro,"by
+
+Kalyan Prasad","English
+專業"
+"尚有空位
+RB105
+
+主議程軌",16：15 ~ 16：30,Closing Day 2,by,"中文
+入門"
